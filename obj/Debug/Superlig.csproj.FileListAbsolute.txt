@@ -1,0 +1,12 @@
+C:\Users\cemre\source\repos\Superlig\bin\Debug\Superlig.exe.config
+C:\Users\cemre\source\repos\Superlig\bin\Debug\Superlig.exe
+C:\Users\cemre\source\repos\Superlig\bin\Debug\Superlig.pdb
+C:\Users\cemre\source\repos\Superlig\obj\Debug\Superlig.csproj.AssemblyReference.cache
+C:\Users\cemre\source\repos\Superlig\obj\Debug\Superlig.csproj.SuggestedBindingRedirects.cache
+C:\Users\cemre\source\repos\Superlig\obj\Debug\Superlig.Form1.resources
+C:\Users\cemre\source\repos\Superlig\obj\Debug\Superlig.Properties.Resources.resources
+C:\Users\cemre\source\repos\Superlig\obj\Debug\Superlig.csproj.GenerateResource.cache
+C:\Users\cemre\source\repos\Superlig\obj\Debug\Superlig.csproj.CoreCompileInputs.cache
+C:\Users\cemre\source\repos\Superlig\obj\Debug\Superlig.exe
+C:\Users\cemre\source\repos\Superlig\obj\Debug\Superlig.pdb
+C:\Users\cemre\source\repos\Superlig\obj\Debug\Superlig.TakimEkle.resources
